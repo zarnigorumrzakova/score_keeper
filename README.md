@@ -1,16 +1,4 @@
 # score_keeper
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zarnigorumrzakova/score_keeper/assets/139987349/893e2ade-da2c-42e9-9065-1125c67c0895" height="300" width="600">,
+<img src="https://github.com/zarnigorumrzakova/score_keeper/assets/139987349/203a97d1-7c9a-4b63-85ca-ca28b414f306" height="300" width="600">
